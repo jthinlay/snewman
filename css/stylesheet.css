@@ -1,0 +1,33 @@
+.container-fluid{
+   background-image: url("file:///Users/qiangbarejie/Documents/clients/snewman/snewmans_website/new_website/snewman_boostrap_website/images/bg_color_yelloTexture.jgeg.jpg");  
+}
+#headerImage{
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+
+#firstOne {
+    width: 600px;
+    height: auto;
+}
+#wss{
+        opacity: 0;
+        -webkit-transition: opacity 1.0s linear 0s;
+        transition:         opacity 1.0s linear 0s;
+    }
+#wss img{
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px black;
+}
+#caption{
+    opacity: 0;
+    -webkit-transition: opacity 1.0s linear 0s;
+    transition:         opacity 1.0s linear 0s;
+}
+.col{
+    text-align: center;
+}
+hr{
+    background-color: green;
+    border-width: 10px;
+}
