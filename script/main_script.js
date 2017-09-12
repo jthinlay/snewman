@@ -12,12 +12,12 @@ function wssNext(){
 	if(wss_i > (wss_array.length - 1)){
 	  wss_i = 0;
 	}
-	setTimeout('wssSlide()', 2000);
+	setTimeout('wssSlide()', 3000);
 }
 function wssSlide(){
 	wss_elem.innerHTML = wss_array[wss_i];
 	wss_elem.style.opacity = 1;
-	setTimeout('wssNext()', 3000);
+	setTimeout('wssNext()', 2000);
 }
 var caption_i = 0;
 var caption_array = [
@@ -32,12 +32,12 @@ function captionNext(){
 	if(caption_i > (caption_array.length - 1)){
 	  caption_i = 0;
 	}
-	setTimeout('captionSlide()', 2000);
+	setTimeout('captionSlide()', 3000);
 }
 function captionSlide(){
 	caption_elem.innerHTML = caption_array[caption_i];
 	caption_elem.style.opacity = 1;
-	setTimeout('captionNext()', 3000);
+	setTimeout('captionNext()', 2000);
 }
 
 //document.getElementById('button').addEventListener('click', loadUsers);
