@@ -5,6 +5,10 @@
     border-radius: 20px;
     box-shadow: 10px 5px 5px black;
 }
+#nav a{
+    color: #EDA456;
+    font-size: 120%;
+}
 
 #firstOne {
     width: 600px;
@@ -30,4 +34,7 @@
 hr{
     background-color: green;
     border-width: 10px;
+}
+#statementDisplay {
+    text-align: left;  
 }
