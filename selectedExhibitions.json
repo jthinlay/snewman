@@ -1,0 +1,261 @@
+[{
+    "id": "1",
+    "location": "PIEDMONT GARDENS, OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": {
+      "time 1": "9/13-10/13",
+      "time 2": "7/06-8/06",
+      "time 3": "3/99-5/99"
+    }
+  },
+  {
+    "id": "2",
+    "location": "SALEM LUTHERAN HOME, OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": {
+      "time 1": "7/12-9/12",
+      "time 2": "1/04-3/04"
+    }
+  },
+  {
+    "id": "3",
+    "location": "TUK TUK, BERKELEY, CA",
+    "solo or Group": "Solo Show",
+    "time": "5/11-Present"
+  },
+  {
+    "id": "4",
+    "location": "OAKLAND CHAMBER OF COMMERCE, OAKLAND, CA",
+    "solo or Group": "Group Show / Rotating",
+    "time": "5/99-Present"
+  },
+  {
+    "id": "5",
+    "location": "ATEA, NORWAY",
+    "solo or Group": "PERMANENT EXHIBIT: TOGETHER TOWORDS THE TOP,THEPLACE TOBE",
+    "time": "9/06-Present"
+  },
+  {
+    "id": "6",
+    "location": "JACK LONDON SQUARE,  OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": "05/11 - 7/11"
+  },
+  {
+    "id": "7",
+    "location": "FIRST FEDERAL SAVINGS, OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": "03/11-05/11 &amp; 11/06-12/06"
+  },
+  {
+    "id": "8",
+    "location": "STUDIO GALLERY, SAN FRANCISCO, CA",
+    "solo or Group": "Group Show",
+    "time": "03/11 - 04/11"
+  },
+  {
+    "id": "9",
+    "location": "TIPTON, MARTINEZ, CA ",
+    "solo or Group": "Group Show",
+    "time": "03/10 -11/10"
+  },
+  {
+    "id": "10",
+    "location": "FIRST CRUSH, SAN FRANCISCO, CA",
+    "solo or Group": "Solo Show<",
+    "time": "08/09 - 11/10"
+  },
+  {
+    "id": "11",
+    "location": "S.F. MUSEUM OF MODERN ART RENTAL GALLERY",
+    "solo or Group": "On Loan: Apollo, Little Buddy, Dance Of The Snow Lions, Red Lantern",
+    "time": "05/05 - Present"
+  },
+  {
+    "id": "12",
+    "location": "ALAMEDA LIBRARY, ALAMEDA, CA",
+    "solo or Group": "Group Show",
+    "time": "07/09 - 09/09"
+  },
+  {
+    "id": "13",
+    "location": "GALLERY CHINOISE, OAKLAND, CA",
+    "solo or Group": "Group Show",
+    "time": "06/09 - 09/09"
+  },
+  {
+    "id": "14",
+    "location": "ANTIOCH HISTORICAL SOCIETY MUSEUM, ANTIOCH, CA",
+    "solo or Group": "Group Show",
+    "time": "05/09 - 07/09"
+  },
+  {
+    "id": "15",
+    "location": "KENSINGTON LIBRARY, OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": "01/09 - 02/09"
+  },
+  {
+    "id": "16",
+    "location": "METROPOLITAN TRANSPORTATION CENTER, OAKLAND, CA",
+    "solo or Group": "Solo Show",
+    "time": "01/09 - 04/09 &amp; 10/01 - 02/05"
+  },
+  {
+    "id": "17",
+    "location": "BUCCI’S, EMERYVILLE, CA",
+    "solo or Group": "Solo Group",
+    "time": "04/08 - 05/08"
+  },
+  {
+    "id": "18",
+    "location": "ALBANY CENTER FOR THE ARTS, ALBANY, CA",
+    "solo or Group": "&nbsp;",
+    "time": "11/07 - 02/08"
+  },
+  {
+    "id": "19",
+    "location": "S.F. M.O.M.A. ARTIST GALLERY, SAN FRANCISCO, CA ",
+    "solo or Group": "Group Show City Life",
+    "time": "03/14/07 - 04/13/07"
+  },
+  {
+    "id": "20",
+    "location": "JEWISH COMMUNITY CENTER, BERKELEY, CA",
+    "solo or Group": "Group Show",
+    "time": "01/07 - 03/07"
+  },
+  {
+    "id": "21",
+    "location": "TIBETAN AID PROJECT, BERKELY, CA",
+    "solo or Group": "TASTE &amp; TRIBUTE, NEW YORK, TASTE &amp; TRIBUTE, SAN FRANCISCO",
+    "time": "07/06 - 11/06"
+  },
+  {
+    "id": "22",
+    "location": "CALIFORNIA SAVINGS, MONTCLAIR, CA",
+    "solo or Group": "Solo Show",
+    "time": "01/01-03/01, 03/04 -05/04, 07/06-08/06"
+  },
+  {
+    "id": "23",
+    "location": "S.F. M.O.M.A. ARTIST GALLERY",
+    "solo or Group": "ANNUAL SALE",
+    "time": "1996 - 2012"
+  },
+  {
+    "id": "24",
+    "location": "S.F. MUSEUM OF MODERN ART RENTAL GALLERY",
+    "solo or Group": {
+      "group 1": ["Blue Grass", "Scent Of Durian", "Half Court", "From Afternoon Into Evening"],
+      "group 2": ["The Place To Be", "The Dog Walker Of Columbus Avenue", "White Birch", "Hot Link, Gaberdine", "With A Cherry On Top"]
+    },
+    "time": {
+      "time 1": "02/02 - 03/05",
+      "time 2": "05/05 - 04/11"
+    }
+  },
+  {
+    "id": "25",
+    "location": "METROPOLITAN METRO CENTER, OAKLAND, CA",
+    "solo or Group": "Group Show",
+    "time": "11/04 - 02/05"
+  },
+  {
+    "id": "26",
+    "location": [{
+        "location 1": "ANDENKEN GALLERY, DENVER, COLORADO"
+      },
+      {
+        "location 2": "LADYFEST OUTWEST, NATIONAL EXHIBIT"
+      }
+    ],
+    "solo or Group": "",
+    "time": "06/03 - 07/03"
+  },
+  {
+    "id": "27",
+    "location": "METREON, S.F., CA",
+    "solo or Group": "",
+    "time": "05/03 - 07/03"
+  },
+  {
+    "id": "28",
+    "location": "FAIRFIELD ANNUAL ART EXHIBIT",
+    "solo or Group": "JURIED SHOW",
+    "time": "06/02 - 10/02"
+  },
+  {
+    "id": "29",
+    "location": "NORTH BEACH GALLERY, S.F., CA.",
+    "solo or Group": "",
+    "time": "06/02 - 10/02"
+  },
+  {
+    "id": "30",
+    "location": [{
+        "location 1": "CITY OF OAKLAND, CRAFT &amp; CULTURAL ARTS DEPT."
+      },
+      {
+        "location 2": "ALICE ARTS CENTER WINDOWS EXHIBITION SERIES 11"
+      }
+    ],
+    "solo or Group": "",
+    "time": "01/02 - 02/02"
+  },
+  {
+    "id": "31",
+    "location": "NORTHERN CALIFORNIA ARTS, INC",
+    "solo or Group": [{
+        "group 1": "BOLD EXPRESSIONS GROUP SHOW"
+      },
+      {
+        "group 2": "MAGNUM OPUS GROUP SHOW"
+      }
+    ],
+    "time": [{
+        "time 1": "09/01 - 10/01"
+      },
+      {
+        "time 2": "09/00 - 10/00"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "location": "SEBASTOPOL CENTER FOR THE ARTS",
+    "solo or Group": [{
+        "location 1": "ARTIST AS ACTIVIST, GROUP SHOW"
+      },
+      {
+        "location 2": "CLOSE UP CLOSE, GROUP SHOW"
+      }
+    ],
+    "time": [{
+        "time 1": "06/01 - 07/01"
+      },
+      {
+        "time 2": "02/01 -03/01"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "location": "GUEST SPEAKER / DEMONSTRATOR ",
+    "solo or Group": [{
+        "group 1": "SAN LEANDRO ART ASSOCIATION"
+      },
+      {
+        "group 2": "ALAMEDA ART ASSOCIATION"
+      }
+    ],
+    "time": [{
+        "time 1": "03/00"
+      },
+      {
+        "time 2": "11/99"
+      }
+    ]
+  }
+
+]
